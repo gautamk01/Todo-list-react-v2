@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Todo-list-react-v2/static/css/main.54b784f1.chunk.css",
-    "main.js": "/Todo-list-react-v2/static/js/main.2d5759c2.chunk.js",
-    "main.js.map": "/Todo-list-react-v2/static/js/main.2d5759c2.chunk.js.map",
+    "main.css": "/Todo-list-react-v2/static/css/main.9431ade7.chunk.css",
+    "main.js": "/Todo-list-react-v2/static/js/main.64b7c82b.chunk.js",
+    "main.js.map": "/Todo-list-react-v2/static/js/main.64b7c82b.chunk.js.map",
     "runtime-main.js": "/Todo-list-react-v2/static/js/runtime-main.1a6246a4.js",
     "runtime-main.js.map": "/Todo-list-react-v2/static/js/runtime-main.1a6246a4.js.map",
-    "static/js/2.44f46360.chunk.js": "/Todo-list-react-v2/static/js/2.44f46360.chunk.js",
-    "static/js/2.44f46360.chunk.js.map": "/Todo-list-react-v2/static/js/2.44f46360.chunk.js.map",
+    "static/js/2.17aa49e0.chunk.js": "/Todo-list-react-v2/static/js/2.17aa49e0.chunk.js",
+    "static/js/2.17aa49e0.chunk.js.map": "/Todo-list-react-v2/static/js/2.17aa49e0.chunk.js.map",
     "index.html": "/Todo-list-react-v2/index.html",
-    "static/css/main.54b784f1.chunk.css.map": "/Todo-list-react-v2/static/css/main.54b784f1.chunk.css.map",
-    "static/js/2.44f46360.chunk.js.LICENSE.txt": "/Todo-list-react-v2/static/js/2.44f46360.chunk.js.LICENSE.txt"
+    "static/css/main.9431ade7.chunk.css.map": "/Todo-list-react-v2/static/css/main.9431ade7.chunk.css.map",
+    "static/js/2.17aa49e0.chunk.js.LICENSE.txt": "/Todo-list-react-v2/static/js/2.17aa49e0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.1a6246a4.js",
-    "static/js/2.44f46360.chunk.js",
-    "static/css/main.54b784f1.chunk.css",
-    "static/js/main.2d5759c2.chunk.js"
+    "static/js/2.17aa49e0.chunk.js",
+    "static/css/main.9431ade7.chunk.css",
+    "static/js/main.64b7c82b.chunk.js"
   ]
 }
